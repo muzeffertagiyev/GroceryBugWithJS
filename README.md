@@ -7,7 +7,9 @@ Grocery Bud is a simple web application for managing a grocery list. It allows u
 
 
 
-https://github.com/user-attachments/assets/bed16d93-d775-458a-b77a-82f3c336c4df
+
+https://github.com/user-attachments/assets/11c881f0-0377-4e93-82da-115743d4bd78
+
 
 
 
