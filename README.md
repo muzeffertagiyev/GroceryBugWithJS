@@ -3,9 +3,11 @@
 
 Grocery Bud is a simple web application for managing a grocery list. It allows users to add, edit, delete, and clear grocery items. The application uses HTML, CSS, and JavaScript to create an interactive and user-friendly interface.
 
-## How the web page looks like:
+## Demo Video of the Web App
 
-![Screen Shot 2024-07-23 at 18 43 38](https://github.com/user-attachments/assets/89bc618b-d10f-43e2-9d4f-8314d6bee3c1)
+
+
+https://github.com/user-attachments/assets/bed16d93-d775-458a-b77a-82f3c336c4df
 
 
 
